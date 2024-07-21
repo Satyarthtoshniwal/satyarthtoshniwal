@@ -5,4 +5,5 @@
 - 📫 How to reach me - satyarthtoshniwal1499@gmail.com 
 - 😄 Pronouns: Energetic, Compassionate, Innovative, Reliable.
 
+![Alt Text]([https://path_to_your_gif.gif](https://github.com/user-attachments/assets/682a3074-eae2-4dc4-ab5c-d54ce43780ba)
 
