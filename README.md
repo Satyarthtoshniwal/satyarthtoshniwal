@@ -8,7 +8,7 @@
 >- :fleur_de_lis: Adjective: `Energetic`, `Compassionate`, `Innovative`, `Reliable`.
 ##
 > [!TIP]
-**<h2>:mag: Want to know more about me?. Visit My Linkedin Profile - [LINKEDIN](www.linkedin.com/in/satyarth-toshniwal)</h2>**
+**<h2>:mag: Want to know more about me?. Visit My Linkedin Profile - [LINKEDIN](https://www.linkedin.com/in/satyarth-toshniwal)</h2>**
 #
 <picture>
  <img alt="WED-DEVELOPER" src="https://github.com/user-attachments/assets/3c23a944-9792-4b04-b3c7-881f0311f9c5" height="500" width="500" >
