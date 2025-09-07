@@ -1,8 +1,8 @@
 **<h1>:wave: Hi, I’m Satyarth Toshniwal</h1>**
 
 > [!NOTE]
->- :jigsaw: I’m interested in `programming`
->- :computer: I’m currently pursuing my BCA from `Institute of Management and Entrepreneurship Development BVDU Pune`:student:.
+>- :jigsaw: I’m interested in `Web Application Security`,`Malware Analysis & Reverse Engineering`,`Exploit Development`,`Cloud Security`,`Red Teaming / Blue Teaming`
+>- :computer: I’ve completed my `BCA` from `IMED, Pune` and pursuing `MCA` currently:student:.
 >- :two_hearts: I’m looking to collaborate on exciting and innovative projects that align with my skills and interests.
 >- :round_pushpin: How to reach me - [MAIL](satyarthtoshniwal1499@gmail.com), [PHONE](9049920820), [INSTAGRAM](https://www.instagram.com/satyarthtoshniwal) 
 >- :fleur_de_lis: Adjective: `Energetic`, `Compassionate`, `Innovative`, `Reliable`.
